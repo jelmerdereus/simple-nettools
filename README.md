@@ -11,6 +11,12 @@ Output:
 ```ABCDABCDABCD  ab:cd:ab:cd:ab:cd  abcd.abcd.abcd```
 
 
+#### download
+
+3mac.exe for Windows 64-bit
+https://sourceforge.net/projects/simplenettools-3mac/
+
+
 #### examples
 
 ```C:\>3mac.exe ABCDABCDABCD```
